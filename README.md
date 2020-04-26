@@ -1,2 +1,2 @@
 # Hyperblog
-Blog de prueba creado para probar comandos de git
+Blog de prueba creado como parte del curso de Git y Github.
